@@ -2,6 +2,8 @@
 
 Submission for the Developer - Position 1 assignment (Namoza / OrthoNow account).
 
+--check for live Demo-----  https://orthonowdev.netlify.app/
+
 ## Repo Structure
 
 ```
